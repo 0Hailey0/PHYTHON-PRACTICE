@@ -23,3 +23,4 @@ for person in people:
         print(f"no available seats for {person}")
 
 #1st change
+#2nd change from github website
