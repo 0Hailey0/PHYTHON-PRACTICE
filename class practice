@@ -21,3 +21,5 @@ for person in people:
         print(f"added {person} to flight successfully")
     else:
         print(f"no available seats for {person}")
+
+#1st change
